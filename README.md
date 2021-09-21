@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+You can create branch right from github web interface.
